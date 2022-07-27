@@ -8,9 +8,13 @@ import java.util.StringTokenizer;
 public class CustomUltimateScannerExample {
 
     public static void main(String[] args) throws IOException {
-        // создание сканера
+        // создание сканера файлого ввода/вывода
         CustomUltimateScanner scanner
                 = new CustomUltimateScanner("aplusb.in", "aplusb.out");
+        
+        // создание сканера для консольного ввода/вывода
+        CustomUltimateScanner consoleScanner
+                = new CustomUltimateScanner();
 
         // пример считывания int, String, Double
         int intExample = scanner.nextInt();
