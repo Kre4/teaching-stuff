@@ -11,4 +11,7 @@
 5. Если хочешь тестировать на файловом вводе/выводе, то размести файлы в папке проекта  
     * Допустим я пишу код в файле `C:\iHateCsharp\src\DefaultScannerExample.java`, тогда файл ввода будет по пути `‪C:\iHateCsharp\*имя файлика*`
 ## :monocle_face:Где мне взять условия?:monocle_face:
-[Они будут вот тут](https://github.com/Kre4/teaching-stuff/tree/main/условия)
+[Все нужное будет на гугл диске](https://drive.google.com/drive/folders/1jkCNSk3KBTN3GP7urASOH3SohWNHllO7)  
+
+P.S Проверь наличие себя в [таблице](https://docs.google.com/spreadsheets/d/1EEAm7KAf8pYoU1-E1LkV5ZYzKIk0mfycFKt7Y5SnknY/edit?usp=sharing)
+
