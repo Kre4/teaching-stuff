@@ -4,8 +4,10 @@
 1. Создать java-проект, в котором ты будешь писать код и отправлять мне на проверку, можешь в [вк](https://vk.com/den_4_ick) или в телегу [@NiceScreen_NiceCode](https://t.me/NiceScreen_NiceCode)
 2. &nbsp;
 3. Тестирующая система работает с файловым вводом/выводом. Я подготовил два шаблона
-    * [Вариант 1](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/DefaultScannerExample.java) - тут нет ничего не обычного, приемлимо короче.
-    * [Вариант 2](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/CustomUltimateScannerExample.java) - кастомный сканер, который работает быстрее встроенного и написан с люовью.
+    * [Java Вариант 1](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/DefaultScannerExample.java) - тут нет ничего не обычного, приемлимо короче.
+    * [Java Вариант 2](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/CustomUltimateScannerExample.java) - кастомный сканер, который работает быстрее встроенного и написан с люовью.
+    * [C++ Вариант 1](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/freopen.cpp) - при сдаче я использовал этот в силу удобства.
+    * [C++ Вариант 2](https://github.com/Kre4/teaching-stuff/blob/main/вступление/src/iostream.cpp) - абсолютно анологичный вариант.
       * Можешь выбирать любой, но если твой код не заходит по времени, то смена шаблона может помочь решить пробелму.
 4. Перед отправкой кода мне, советую хотя бы попробовать запустить у себя, в идеале еще и пару тестов руками вбить
 5. Если хочешь тестировать на файловом вводе/выводе, то размести файлы в папке проекта  
